@@ -1,0 +1,25 @@
+.buttonitems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttonitems{
+position: absolute;
+top: 50%;
+left: 60%;
+}
+.buttons{
+    margin: 20px;
+    height: 70px;
+    width: 200px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: medium;
+}
+.buttons:hover{
+  background-color: rgb(201, 201, 201);
+  opacity: 0.5;
+}
+
+
